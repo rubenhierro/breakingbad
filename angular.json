@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "pwa-example"
+    }
+  },
+  "defaultProject": "pwa-example",
+  "cli": {
+    "analytics": false
+  }
 }
