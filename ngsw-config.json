@@ -33,7 +33,10 @@
     {
       "name": "images-api",
       "urls": [
-        "https://picsum.photos/**"
+        "https://vignette.wikia.nocookie.net/**",
+        "https://images.amcnetworks.com/**",
+        "https://s-i.huffpost.com/**",
+        "https://media1.popsugar-assets.com/**"
       ],
       "cacheConfig": {
         "maxSize": 10,

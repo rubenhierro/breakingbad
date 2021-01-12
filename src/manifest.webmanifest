@@ -1,6 +1,6 @@
 {
-  "name": "pwa-example",
-  "short_name": "pwa-example",
+  "name": "Breaking Bad App",
+  "short_name": "Breaking-Bad-App",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
