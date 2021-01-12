@@ -20,16 +20,16 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
-  it(`should have as title 'Breaking Bad PWA'`, () => {
+  it(`should have as title 'Breaking Bad App'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
-    expect(app.title).toEqual('pwa-example');
+    expect(app.title).toEqual('Breaking Bad App');
   });
 
   it('should render title', () => {
     const fixture = TestBed.createComponent(AppComponent);
     fixture.detectChanges();
     const compiled = fixture.nativeElement;
-    expect(compiled.querySelector('.content span').textContent).toContain('Breaking Bad PWA is running!');
+    expect(compiled.querySelector('.content span').textContent).toContain('Breaking Bad App is running!');
   });
 });
