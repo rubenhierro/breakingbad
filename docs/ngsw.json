@@ -1,23 +1,23 @@
 {
   "configVersion": 1,
-  "timestamp": 1610481945892,
-  "index": "/wpa-example/index.html",
+  "timestamp": 1610482981415,
+  "index": "/breakingbad/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/wpa-example/favicon.ico",
-        "/wpa-example/index.html",
-        "/wpa-example/main-es2015.c5e7d1b0af41504ed614.js",
-        "/wpa-example/main-es5.c5e7d1b0af41504ed614.js",
-        "/wpa-example/manifest.webmanifest",
-        "/wpa-example/polyfills-es2015.f332a089ad1600448873.js",
-        "/wpa-example/polyfills-es5.177e85a9724683782539.js",
-        "/wpa-example/runtime-es2015.0dae8cbc97194c7caed4.js",
-        "/wpa-example/runtime-es5.0dae8cbc97194c7caed4.js",
-        "/wpa-example/styles.81124ef14a0a95f4c03e.css"
+        "/breakingbad/favicon.ico",
+        "/breakingbad/index.html",
+        "/breakingbad/main-es2015.c5e7d1b0af41504ed614.js",
+        "/breakingbad/main-es5.c5e7d1b0af41504ed614.js",
+        "/breakingbad/manifest.webmanifest",
+        "/breakingbad/polyfills-es2015.f332a089ad1600448873.js",
+        "/breakingbad/polyfills-es5.177e85a9724683782539.js",
+        "/breakingbad/runtime-es2015.0dae8cbc97194c7caed4.js",
+        "/breakingbad/runtime-es5.0dae8cbc97194c7caed4.js",
+        "/breakingbad/styles.81124ef14a0a95f4c03e.css"
       ],
       "patterns": [
         "https:\\/\\/cdn\\.jsdelivr\\.net\\/npm\\/bootstrap@5\\.0\\.0-beta1\\/dist\\/css\\/bootstrap\\.min\\.css"
@@ -28,16 +28,16 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "/wpa-example/assets/css/animate.css",
-        "/wpa-example/assets/icons/icon-128x128.png",
-        "/wpa-example/assets/icons/icon-144x144.png",
-        "/wpa-example/assets/icons/icon-152x152.png",
-        "/wpa-example/assets/icons/icon-192x192.png",
-        "/wpa-example/assets/icons/icon-384x384.png",
-        "/wpa-example/assets/icons/icon-512x512.png",
-        "/wpa-example/assets/icons/icon-72x72.png",
-        "/wpa-example/assets/icons/icon-96x96.png",
-        "/wpa-example/assets/img/Breaking_Bad_logo.png"
+        "/breakingbad/assets/css/animate.css",
+        "/breakingbad/assets/icons/icon-128x128.png",
+        "/breakingbad/assets/icons/icon-144x144.png",
+        "/breakingbad/assets/icons/icon-152x152.png",
+        "/breakingbad/assets/icons/icon-192x192.png",
+        "/breakingbad/assets/icons/icon-384x384.png",
+        "/breakingbad/assets/icons/icon-512x512.png",
+        "/breakingbad/assets/icons/icon-72x72.png",
+        "/breakingbad/assets/icons/icon-96x96.png",
+        "/breakingbad/assets/img/Breaking_Bad_logo.png"
       ],
       "patterns": []
     }
@@ -59,26 +59,26 @@
     }
   ],
   "hashTable": {
-    "/wpa-example/assets/css/animate.css": "1d5c16e4a56f56ceeff595897da8673875104012",
-    "/wpa-example/assets/icons/icon-128x128.png": "35c2406b21766510d2ac8e1490dfedbff70ea16f",
-    "/wpa-example/assets/icons/icon-144x144.png": "237813d8410efe913b9b28b4c181b65966d15335",
-    "/wpa-example/assets/icons/icon-152x152.png": "5264c06f60a1974ae1e5718d59a0278eb0c147a6",
-    "/wpa-example/assets/icons/icon-192x192.png": "a3b7ef7afe2484910ee6807c87f02a988129523a",
-    "/wpa-example/assets/icons/icon-384x384.png": "24c08f107af9793e65981405e994b7021d99cbdf",
-    "/wpa-example/assets/icons/icon-512x512.png": "17317da9e0c2670eb83d01963747d13b483dc2b5",
-    "/wpa-example/assets/icons/icon-72x72.png": "449a8402e6ff11da7b0859a12593fe43e1ca0520",
-    "/wpa-example/assets/icons/icon-96x96.png": "132d684e9a45e8298a6908f7cf6cba3c715303fe",
-    "/wpa-example/assets/img/Breaking_Bad_logo.png": "cf92709371d4b29a2e81907417e3eb14883bc2a6",
-    "/wpa-example/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/wpa-example/index.html": "af6634124f53de6f9b7b7bbca1513c686edbdbc0",
-    "/wpa-example/main-es2015.c5e7d1b0af41504ed614.js": "9776f0c85ea856655296ec0f2c06f92cda5389a0",
-    "/wpa-example/main-es5.c5e7d1b0af41504ed614.js": "9a0ed585c30ea65c6aad86210407c1427e573b39",
-    "/wpa-example/manifest.webmanifest": "24d9884df158b344b4a50c8bf3bd7f151f092281",
-    "/wpa-example/polyfills-es2015.f332a089ad1600448873.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
-    "/wpa-example/polyfills-es5.177e85a9724683782539.js": "8aa26ea87b9958c6bd13b7c257c0e9940438e684",
-    "/wpa-example/runtime-es2015.0dae8cbc97194c7caed4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/wpa-example/runtime-es5.0dae8cbc97194c7caed4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/wpa-example/styles.81124ef14a0a95f4c03e.css": "1778355b4a19f04f1bd51d777abdcd0b71ef459c"
+    "/breakingbad/assets/css/animate.css": "1d5c16e4a56f56ceeff595897da8673875104012",
+    "/breakingbad/assets/icons/icon-128x128.png": "35c2406b21766510d2ac8e1490dfedbff70ea16f",
+    "/breakingbad/assets/icons/icon-144x144.png": "237813d8410efe913b9b28b4c181b65966d15335",
+    "/breakingbad/assets/icons/icon-152x152.png": "5264c06f60a1974ae1e5718d59a0278eb0c147a6",
+    "/breakingbad/assets/icons/icon-192x192.png": "a3b7ef7afe2484910ee6807c87f02a988129523a",
+    "/breakingbad/assets/icons/icon-384x384.png": "24c08f107af9793e65981405e994b7021d99cbdf",
+    "/breakingbad/assets/icons/icon-512x512.png": "17317da9e0c2670eb83d01963747d13b483dc2b5",
+    "/breakingbad/assets/icons/icon-72x72.png": "449a8402e6ff11da7b0859a12593fe43e1ca0520",
+    "/breakingbad/assets/icons/icon-96x96.png": "132d684e9a45e8298a6908f7cf6cba3c715303fe",
+    "/breakingbad/assets/img/Breaking_Bad_logo.png": "cf92709371d4b29a2e81907417e3eb14883bc2a6",
+    "/breakingbad/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/breakingbad/index.html": "c04679b0aaa7ba1538f1072719b29f9a8795c454",
+    "/breakingbad/main-es2015.c5e7d1b0af41504ed614.js": "9776f0c85ea856655296ec0f2c06f92cda5389a0",
+    "/breakingbad/main-es5.c5e7d1b0af41504ed614.js": "9a0ed585c30ea65c6aad86210407c1427e573b39",
+    "/breakingbad/manifest.webmanifest": "24d9884df158b344b4a50c8bf3bd7f151f092281",
+    "/breakingbad/polyfills-es2015.f332a089ad1600448873.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
+    "/breakingbad/polyfills-es5.177e85a9724683782539.js": "8aa26ea87b9958c6bd13b7c257c0e9940438e684",
+    "/breakingbad/runtime-es2015.0dae8cbc97194c7caed4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/breakingbad/runtime-es5.0dae8cbc97194c7caed4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/breakingbad/styles.81124ef14a0a95f4c03e.css": "1778355b4a19f04f1bd51d777abdcd0b71ef459c"
   },
   "navigationUrls": [
     {
