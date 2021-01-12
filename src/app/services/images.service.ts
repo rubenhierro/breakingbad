@@ -12,10 +12,10 @@ export class ImagesService {
   constructor(private http: HttpClient) { }
 
   getAllImages(): Observable<Image[]> {
-    return this.http.get<Image[]>('https://picsum.photos/v2/list');
+    return this.http.get<Image[]>('https://jsonplaceholder.typicode.com/photos/');
   }
 
   getImageById(id: String): Observable<Image> {
-    return this.http.get<Image>('https://picsum.photos/id/' + id +'/info')
+    return this.http.get<Image>('https://jsonplaceholder.typicode.com/photos/' + id);
   }
 }
