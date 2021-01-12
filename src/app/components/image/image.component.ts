@@ -28,7 +28,7 @@ export class ImageComponent implements OnInit {
           return this.router.navigateByUrl('/');
         }
 
-        this.image = image;
+        this.image = image as Image;
         console.log('Image-->', this.image);
       });
   }

@@ -3,17 +3,31 @@
     *ngIf="image"
     class="row animate__animated animate__bounce animate__fadeIn"
   >
-    <div class="col-md-9">
-      <p *ngIf="image.id"><strong>Identifier: </strong>{{ image.id }}</p>
-      <p><strong>Author: </strong>{{ image.title }}</p>
-      <!-- <p><strong>Size: </strong>{{ image.width }} - {{ image.height }}</p> -->
-      <p><strong>Url: </strong>{{ image.url }}</p>
+    <div class="col-md-9" *ngFor="let image of image">
+      <h2>{{ image.name }}</h2>
+      <p><strong>Identifier: </strong>{{ image.char_id }}</p>
+      <p><strong>Birthday: </strong>{{ image.birthday }}</p>
+      <p>
+        <strong>Status: </strong>
+        <span *ngIf="image.status == 'Alive'" style="color: green">
+          {{ image.status }}</span
+        >
+        <span *ngIf="image.status !== 'Alive'" style="color: red">
+          {{ image.status }}</span
+        >
+      </p>
+      <p><strong>Occupation:</strong></p>
+      <ul>
+        <li *ngFor="let occupation of image.occupation">{{ occupation }}</li>
+      </ul>
+      <p><strong>Seasons: </strong>{{ image.appearance }}</p>
       <img
-        style="width: 80%; height: 80%"
+        style="width: 250px"
         class="rounded"
-        src="{{ image.thumbnailUrl }}"
-        alt=""
+        src="{{ image.img }}"
+        alt="{{ image.name }}"
       />
+      <p><strong>Nickname: </strong>{{ image.nickname }}</p>
     </div>
     <div class="col-md-3">
       <a routerLink="/" class="btn btn-danger">Back</a>
