@@ -1,23 +1,23 @@
 {
   "configVersion": 1,
-  "timestamp": 1610486889986,
-  "index": "/index.html",
+  "timestamp": 1610487454046,
+  "index": "/breakingbad/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/favicon.ico",
-        "/index.html",
-        "/main-es2015.451e0df7a1a014fd1273.js",
-        "/main-es5.451e0df7a1a014fd1273.js",
-        "/manifest.webmanifest",
-        "/polyfills-es2015.f332a089ad1600448873.js",
-        "/polyfills-es5.177e85a9724683782539.js",
-        "/runtime-es2015.0dae8cbc97194c7caed4.js",
-        "/runtime-es5.0dae8cbc97194c7caed4.js",
-        "/styles.81124ef14a0a95f4c03e.css"
+        "/breakingbad/favicon.ico",
+        "/breakingbad/index.html",
+        "/breakingbad/main-es2015.eea2f3b9adb6238021f9.js",
+        "/breakingbad/main-es5.eea2f3b9adb6238021f9.js",
+        "/breakingbad/manifest.webmanifest",
+        "/breakingbad/polyfills-es2015.f332a089ad1600448873.js",
+        "/breakingbad/polyfills-es5.177e85a9724683782539.js",
+        "/breakingbad/runtime-es2015.0dae8cbc97194c7caed4.js",
+        "/breakingbad/runtime-es5.0dae8cbc97194c7caed4.js",
+        "/breakingbad/styles.81124ef14a0a95f4c03e.css"
       ],
       "patterns": [
         "https:\\/\\/cdn\\.jsdelivr\\.net\\/npm\\/bootstrap@5\\.0\\.0-beta1\\/dist\\/css\\/bootstrap\\.min\\.css"
@@ -27,18 +27,7 @@
       "name": "assets",
       "installMode": "lazy",
       "updateMode": "prefetch",
-      "urls": [
-        "/assets/css/animate.css",
-        "/assets/icons/icon-128x128.png",
-        "/assets/icons/icon-144x144.png",
-        "/assets/icons/icon-152x152.png",
-        "/assets/icons/icon-192x192.png",
-        "/assets/icons/icon-384x384.png",
-        "/assets/icons/icon-512x512.png",
-        "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png",
-        "/assets/img/breaking_bad_logo.jpg"
-      ],
+      "urls": [],
       "patterns": []
     }
   ],
@@ -59,26 +48,16 @@
     }
   ],
   "hashTable": {
-    "/assets/css/animate.css": "1d5c16e4a56f56ceeff595897da8673875104012",
-    "/assets/icons/icon-128x128.png": "35c2406b21766510d2ac8e1490dfedbff70ea16f",
-    "/assets/icons/icon-144x144.png": "237813d8410efe913b9b28b4c181b65966d15335",
-    "/assets/icons/icon-152x152.png": "5264c06f60a1974ae1e5718d59a0278eb0c147a6",
-    "/assets/icons/icon-192x192.png": "a3b7ef7afe2484910ee6807c87f02a988129523a",
-    "/assets/icons/icon-384x384.png": "24c08f107af9793e65981405e994b7021d99cbdf",
-    "/assets/icons/icon-512x512.png": "17317da9e0c2670eb83d01963747d13b483dc2b5",
-    "/assets/icons/icon-72x72.png": "449a8402e6ff11da7b0859a12593fe43e1ca0520",
-    "/assets/icons/icon-96x96.png": "132d684e9a45e8298a6908f7cf6cba3c715303fe",
-    "/assets/img/breaking_bad_logo.jpg": "cc1f4e075891e7d08f1178ade281f4ef062b2368",
-    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "b05b71010e41bef8866e68fbc761210536a46e9d",
-    "/main-es2015.451e0df7a1a014fd1273.js": "c93aaa2d7a5feeeb2555a24e67315a16c500fa18",
-    "/main-es5.451e0df7a1a014fd1273.js": "268d9cd5a8e6bcbfec8d7c6e984c0f99faa44911",
-    "/manifest.webmanifest": "24d9884df158b344b4a50c8bf3bd7f151f092281",
-    "/polyfills-es2015.f332a089ad1600448873.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
-    "/polyfills-es5.177e85a9724683782539.js": "8aa26ea87b9958c6bd13b7c257c0e9940438e684",
-    "/runtime-es2015.0dae8cbc97194c7caed4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/runtime-es5.0dae8cbc97194c7caed4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/styles.81124ef14a0a95f4c03e.css": "1778355b4a19f04f1bd51d777abdcd0b71ef459c"
+    "/breakingbad/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/breakingbad/index.html": "8d23c3807b4a47f9dd61684cd6bacf37170c8285",
+    "/breakingbad/main-es2015.eea2f3b9adb6238021f9.js": "b7b1696ac89caf41f5e97621b51f3b4d072e5751",
+    "/breakingbad/main-es5.eea2f3b9adb6238021f9.js": "09792669562edf9028caf3df61638519b77f63e8",
+    "/breakingbad/manifest.webmanifest": "24d9884df158b344b4a50c8bf3bd7f151f092281",
+    "/breakingbad/polyfills-es2015.f332a089ad1600448873.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
+    "/breakingbad/polyfills-es5.177e85a9724683782539.js": "8aa26ea87b9958c6bd13b7c257c0e9940438e684",
+    "/breakingbad/runtime-es2015.0dae8cbc97194c7caed4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/breakingbad/runtime-es5.0dae8cbc97194c7caed4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/breakingbad/styles.81124ef14a0a95f4c03e.css": "1778355b4a19f04f1bd51d777abdcd0b71ef459c"
   },
   "navigationUrls": [
     {
