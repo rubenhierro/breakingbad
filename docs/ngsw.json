@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1610482981415,
+  "timestamp": 1610484385352,
   "index": "/breakingbad/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "/breakingbad/favicon.ico",
         "/breakingbad/index.html",
-        "/breakingbad/main-es2015.c5e7d1b0af41504ed614.js",
-        "/breakingbad/main-es5.c5e7d1b0af41504ed614.js",
+        "/breakingbad/main-es2015.451e0df7a1a014fd1273.js",
+        "/breakingbad/main-es5.451e0df7a1a014fd1273.js",
         "/breakingbad/manifest.webmanifest",
         "/breakingbad/polyfills-es2015.f332a089ad1600448873.js",
         "/breakingbad/polyfills-es5.177e85a9724683782539.js",
@@ -37,7 +37,7 @@
         "/breakingbad/assets/icons/icon-512x512.png",
         "/breakingbad/assets/icons/icon-72x72.png",
         "/breakingbad/assets/icons/icon-96x96.png",
-        "/breakingbad/assets/img/Breaking_Bad_logo.png"
+        "/breakingbad/assets/img/breaking_bad_logo.jpg"
       ],
       "patterns": []
     }
@@ -68,11 +68,11 @@
     "/breakingbad/assets/icons/icon-512x512.png": "17317da9e0c2670eb83d01963747d13b483dc2b5",
     "/breakingbad/assets/icons/icon-72x72.png": "449a8402e6ff11da7b0859a12593fe43e1ca0520",
     "/breakingbad/assets/icons/icon-96x96.png": "132d684e9a45e8298a6908f7cf6cba3c715303fe",
-    "/breakingbad/assets/img/Breaking_Bad_logo.png": "cf92709371d4b29a2e81907417e3eb14883bc2a6",
+    "/breakingbad/assets/img/breaking_bad_logo.jpg": "cc1f4e075891e7d08f1178ade281f4ef062b2368",
     "/breakingbad/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/breakingbad/index.html": "c04679b0aaa7ba1538f1072719b29f9a8795c454",
-    "/breakingbad/main-es2015.c5e7d1b0af41504ed614.js": "9776f0c85ea856655296ec0f2c06f92cda5389a0",
-    "/breakingbad/main-es5.c5e7d1b0af41504ed614.js": "9a0ed585c30ea65c6aad86210407c1427e573b39",
+    "/breakingbad/index.html": "b94dd2b6fefd80c6878b5c6ffad48eea9259eb4b",
+    "/breakingbad/main-es2015.451e0df7a1a014fd1273.js": "c93aaa2d7a5feeeb2555a24e67315a16c500fa18",
+    "/breakingbad/main-es5.451e0df7a1a014fd1273.js": "268d9cd5a8e6bcbfec8d7c6e984c0f99faa44911",
     "/breakingbad/manifest.webmanifest": "24d9884df158b344b4a50c8bf3bd7f151f092281",
     "/breakingbad/polyfills-es2015.f332a089ad1600448873.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
     "/breakingbad/polyfills-es5.177e85a9724683782539.js": "8aa26ea87b9958c6bd13b7c257c0e9940438e684",
